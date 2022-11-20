@@ -1,13 +1,13 @@
 {
   "name": "simple-react-modal-js",
-  "version": "0.2.6",
+  "version": "0.2.10",
   "description": "Simple modal for React. Used for a school project",
   "author": "Anthony Colas",
   "repository": {
     "type": "git",
     "url": "https://github.com/ToDestiny/simple-react-modal"
   },
-  "main": "./lib/Modal.js",
+  "main": "./dist/Modal",
   "license": "MIT",
   "keywords": [
     "react",
