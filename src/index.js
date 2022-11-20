@@ -1,2 +1,2 @@
-import Modal from './src/Modal.jsx';
+import Modal from './Modal.jsx';
 export { Modal };
