@@ -1,6 +1,6 @@
 {
   "name": "simple-react-modal-js",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "description": "Simple modal for React. Used for a school project",
   "author": "Anthony Colas",
   "repository": {
@@ -19,6 +19,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/react": "^18.0.25",
     "react": "^18.2.0",
     "react-data-table-component": "^7.5.3",
     "react-date-picker": "^9.0.0",
